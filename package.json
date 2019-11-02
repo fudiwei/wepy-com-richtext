@@ -1,0 +1,18 @@
+{
+    "name": "@step/wepy-com-richtext",
+    "title": "wepy-com-richtext",
+    "description": "A component for displaying HTML richtext based on wepy.js 1.x.",
+    "version": "1.0.0",
+    "main": "com-richtext.wpy",
+    "author": "Fu Diwei",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/fudiwei/wepy-com-richtext.git"
+    },
+    "license": "MIT",
+    "scripts": {
+        "deploy": "npm publish --access=public"
+    },
+    "dependencies": {},
+    "devDependencies": {}
+}
