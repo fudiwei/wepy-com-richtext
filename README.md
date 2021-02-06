@@ -11,7 +11,7 @@
 安装：
 
 ``` shell
-npm install @step/wepy-com-richtext --save
+npm install @skit/wepy-com-richtext --save
 ```
 
 引入组件：
@@ -22,7 +22,7 @@ npm install @step/wepy-com-richtext --save
 </template>
 <script>
     import wepy from 'wepy';
-    import UIRichText from '@step/wepy-com-richtext';
+    import UIRichText from '@skit/wepy-com-richtext';
 
     export default class DemoPage extends wepy.page {
         components = {
