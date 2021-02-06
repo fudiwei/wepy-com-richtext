@@ -1,5 +1,5 @@
 {
-    "name": "@step/wepy-com-richtext",
+    "name": "@skit/wepy-com-richtext",
     "title": "wepy-com-richtext",
     "description": "A component for displaying HTML richtext based on wepy.js 1.x.",
     "version": "1.0.0",
